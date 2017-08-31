@@ -1,0 +1,116 @@
+Initialize engine version: 5.5.4f1 (8ffd0efd98b1)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 730 (ID=0xf02)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.21.13.7653
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Marcio\Documents\unity\projetos\SpaceShooter\Space Shooter_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Marcio\Documents\unity\projetos\SpaceShooter\Space Shooter_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Marcio\Documents\unity\projetos\SpaceShooter\Space Shooter_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Marcio\Documents\unity\projetos\SpaceShooter\Space Shooter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Marcio\Documents\unity\projetos\SpaceShooter\Space Shooter_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Marcio\Documents\unity\projetos\SpaceShooter\Space Shooter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Marcio\Documents\unity\projetos\SpaceShooter\Space Shooter_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Marcio\Documents\unity\projetos\SpaceShooter\Space Shooter_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Marcio\Documents\unity\projetos\SpaceShooter\Space Shooter_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Marcio\Documents\unity\projetos\SpaceShooter\Space Shooter_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.017 seconds
+Platform assembly: C:\Users\Marcio\Documents\unity\projetos\SpaceShooter\Space Shooter_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Marcio\Documents\unity\projetos\SpaceShooter\Space Shooter_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Error: Cannot create FMOD::Sound instance for resource sharedassets0.resource, (Unsupported file or audio format. )
+ 
+(Filename:  Line: 879)
+
+Function __thiscall SoundHandle::Instance::~Instance(void) may only be called from main thread!
+ 
+(Filename:  Line: 21)
+
+UnloadTime: 1.051408 ms
+Error: Cannot create FMOD::Sound instance for resource sharedassets0.resource, (Unsupported file or audio format. )
+ 
+(Filename:  Line: 879)
+
+Error: Cannot create FMOD::Sound instance for resource sharedassets0.resource, (Unsupported file or audio format. )
+ 
+(Filename:  Line: 879)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 708 -> priority: 1 
+Error: Cannot create FMOD::Sound instance for resource sharedassets1.resource, (Unsupported file or audio format. )
+ 
+(Filename:  Line: 879)
+
+Function __thiscall SoundHandle::Instance::~Instance(void) may only be called from main thread!
+ 
+(Filename:  Line: 21)
+
+Error: Cannot create FMOD::Sound instance for resource sharedassets1.resource, (Unsupported file or audio format. )
+ 
+(Filename:  Line: 879)
+
+Function __thiscall SoundHandle::Instance::~Instance(void) may only be called from main thread!
+ 
+(Filename:  Line: 21)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.502363 ms
+Error: Cannot create FMOD::Sound instance for resource sharedassets0.resource, (Unsupported file or audio format. )
+ 
+(Filename:  Line: 879)
+
+Error: Cannot create FMOD::Sound instance for resource sharedassets0.resource, (Unsupported file or audio format. )
+ 
+(Filename:  Line: 879)
+
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 405.
+Total: 0.496941 ms (FindLiveObjects: 0.074390 ms CreateObjectMapping: 0.055717 ms MarkObjects: 0.289430 ms  DeleteObjects: 0.075896 ms)
+
+Error: Cannot create FMOD::Sound instance for resource sharedassets1.resource, (Unsupported file or audio format. )
+ 
+(Filename:  Line: 879)
+
+Error: Cannot create FMOD::Sound instance for resource sharedassets1.resource, (Unsupported file or audio format. )
+ 
+(Filename:  Line: 879)
+
+Error: Cannot create FMOD::Sound instance for resource sharedassets1.resource, (Unsupported file or audio format. )
+ 
+(Filename:  Line: 879)
+
+Error: Cannot create FMOD::Sound instance for resource sharedassets1.resource, (Unsupported file or audio format. )
+ 
+(Filename:  Line: 879)
+
+Error: Cannot create FMOD::Sound instance for resource sharedassets1.resource, (Unsupported file or audio format. )
+ 
+(Filename:  Line: 879)
+
+Error: Cannot create FMOD::Sound instance for resource sharedassets1.resource, (Unsupported file or audio format. )
+ 
+(Filename:  Line: 879)
+
+Error: Cannot create FMOD::Sound instance for resource sharedassets1.resource, (Unsupported file or audio format. )
+ 
+(Filename:  Line: 879)
+
+Error: Cannot create FMOD::Sound instance for resource sharedassets1.resource, (Unsupported file or audio format. )
+ 
+(Filename:  Line: 879)
+
+Error: Cannot create FMOD::Sound instance for resource sharedassets1.resource, (Unsupported file or audio format. )
+ 
+(Filename:  Line: 879)
+
+Error: Cannot create FMOD::Sound instance for resource sharedassets1.resource, (Unsupported file or audio format. )
+ 
+(Filename:  Line: 879)
+
